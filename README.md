@@ -4,7 +4,7 @@ Hi 👋 My name is Jeniah Richbow
 Future Software Engineer
 ------------------------
 
-I am a committed, motivated, and dedicated person who strives to learn the skills necessary to accomplish my goals. I have aspired to be a software engineer since I was 15 years old. My future career goal is to grow and jumpstart my career as a Full Stack Software Engineer.
+I am a passionate, committed, motivated, and dedicated woman who strives to learn skills necessary to accomplish my goals. I have aspired to be a Software Engineer since I was 15 years old. My future career goal is to become a Full Stack Software Engineer. I also have strong interest in Web and Mobile Application Development. 
 
 * 🌍  I'm based in Maryland.
 * ✉️  You can contact me at [jeniahrichbow@gmail.com.](mailto:jeniahrichbow@gmail.com.)
