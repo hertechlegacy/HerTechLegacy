@@ -1,4 +1,4 @@
-Hi 👋 My name is Jeniah Richbow
+Hi 👋 My name is Jeniah!
 ===============================
 
 Future Software Engineer
