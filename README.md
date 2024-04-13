@@ -1,19 +1,19 @@
 Hi 👋 My name is Jeniah!
 ===============================
 
-Future Software Engineer
+Software Engineer II
 ------------------------
 
-I am a passionate, committed, motivated, and dedicated woman who strives to learn skills necessary to accomplish my goals. I have aspired to be a Software Engineer since I was 15 years old. My future career goal is to become a Full Stack Software Engineer. I also have strong interest in Web and Mobile Application Development. 
+I am a passionate, committed, motivated, and dedicated woman who strives to learn the skills necessary to accomplish my goals. I have aspired to be a Software Engineer since I was 15 years old. My future career goal was to become a Full Stack Software Engineer and I am proud to say I am living my dream working my dream career. 
 
 * 🌍  I'm based in Maryland.
 * 🧠  I'm learning React.js.
-* 🤝  I'm open to collaborating on web applications and java projects.
+* 🤝  I'm open to collaborating on web applications and Java projects.
 
 <a href="https://www.twitter.com/codejeniah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/codejeniah?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/JRichbow0" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/JRichbow0?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+/></a><a href="https://www.github.com/HerTechLegacy" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/HerTechLegacy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
